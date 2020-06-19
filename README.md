@@ -1,7 +1,7 @@
 # terraform_couchbase_installation
 
 
-Terraform & Ansible project that create couchbase cluster end to end
+Terraform & Ansible project that creates couchbase cluster end to end
 
 ## This module
 
